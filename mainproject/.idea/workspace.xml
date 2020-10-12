@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bc06f440-3265-43e6-8eae-b50b3fef5e36" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="mainproject" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZOU0OUCQJA0BPsZbJTv4zNz1It" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/BaiduNetdiskDownload/dogtrain" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\dogtrain\mainproject" />
+      <recent name="D:\dogtrain\mainproject\media\uploadimg" />
+      <recent name="D:\dogtrain\mainproject\DogTrain\static\img" />
+      <recent name="D:\dogtrain\mainproject\ResNet" />
+      <recent name="D:\dogtrain\mainproject\CNN" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\dogtrain\mainproject\static" />
+      <recent name="D:\dogtrain\mainproject\DogTrain\static\img" />
+      <recent name="D:\dogtrain\mainproject\ResNet" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Django server.mainproject">
+    <configuration name="Fine_Img" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mainproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fine_Img.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Rename_Img" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mainproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Rename_Img.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="predict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mainproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ResNet" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ResNet/predict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train " type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="mainproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ResNet" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ResNet/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="views" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mainproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DogTrain" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DogTrain/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mainproject" type="Python.DjangoServer" factoryName="Django server">
+      <module name="mainproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="mainproject.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Django server.mainproject" />
+      <item itemvalue="Python.Fine_Img" />
+      <item itemvalue="Python.Rename_Img" />
+      <item itemvalue="Python.predict" />
+      <item itemvalue="Python.train " />
+      <item itemvalue="Python.views" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Fine_Img" />
+        <item itemvalue="Python.train " />
+        <item itemvalue="Python.views" />
+        <item itemvalue="Python.predict" />
+        <item itemvalue="Python.Rename_Img" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc06f440-3265-43e6-8eae-b50b3fef5e36" name="Default Changelist" comment="" />
+      <created>1584709409230</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584709409230</updated>
+      <workItem from="1584709413206" duration="6298000" />
+      <workItem from="1584761528663" duration="680000" />
+      <workItem from="1584763188494" duration="10629000" />
+      <workItem from="1585121470914" duration="1347000" />
+      <workItem from="1585122915378" duration="5904000" />
+      <workItem from="1585137349509" duration="5171000" />
+      <workItem from="1585296564064" duration="657000" />
+      <workItem from="1585458045433" duration="3305000" />
+      <workItem from="1585463872734" duration="4355000" />
+      <workItem from="1585484235064" duration="2294000" />
+      <workItem from="1585544745093" duration="3193000" />
+      <workItem from="1586354153271" duration="599000" />
+      <workItem from="1586413148422" duration="1217000" />
+      <workItem from="1586435552941" duration="1975000" />
+      <workItem from="1586945262057" duration="6920000" />
+      <workItem from="1587009624718" duration="13473000" />
+      <workItem from="1587130226660" duration="13009000" />
+      <workItem from="1587173593235" duration="18652000" />
+      <workItem from="1587216280300" duration="86000" />
+      <workItem from="1587216625454" duration="8228000" />
+      <workItem from="1587264991513" duration="27334000" />
+      <workItem from="1587304440135" duration="13407000" />
+      <workItem from="1587345749201" duration="38117000" />
+      <workItem from="1587438098478" duration="1795000" />
+      <workItem from="1587454806741" duration="63000" />
+      <workItem from="1587542016562" duration="21452000" />
+      <workItem from="1587579056752" duration="672000" />
+      <workItem from="1587609760467" duration="6831000" />
+      <workItem from="1587618114892" duration="11300000" />
+      <workItem from="1587630245877" duration="658000" />
+      <workItem from="1587648896693" duration="674000" />
+      <workItem from="1587706461782" duration="5296000" />
+      <workItem from="1587711782600" duration="5723000" />
+      <workItem from="1587717530569" duration="8999000" />
+      <workItem from="1587728405757" duration="4167000" />
+      <workItem from="1587732584911" duration="50000" />
+      <workItem from="1587737948328" duration="1887000" />
+      <workItem from="1587739894428" duration="527000" />
+      <workItem from="1587740514853" duration="565000" />
+      <workItem from="1587742588144" duration="4705000" />
+      <workItem from="1587801224242" duration="1186000" />
+      <workItem from="1587805881562" duration="4191000" />
+      <workItem from="1587881671719" duration="8632000" />
+      <workItem from="1587910682096" duration="298000" />
+      <workItem from="1587911889129" duration="3001000" />
+      <workItem from="1587952942915" duration="5701000" />
+      <workItem from="1587992421960" duration="1300000" />
+      <workItem from="1588069375845" duration="620000" />
+      <workItem from="1588124508428" duration="12321000" />
+      <workItem from="1588169596063" duration="2000" />
+      <workItem from="1588169958508" duration="3628000" />
+      <workItem from="1588660458769" duration="634000" />
+      <workItem from="1588661140320" duration="3626000" />
+      <workItem from="1589292802973" duration="2221000" />
+      <workItem from="1589507244591" duration="1750000" />
+      <workItem from="1589545888028" duration="2707000" />
+      <workItem from="1589606902714" duration="5152000" />
+      <workItem from="1589685365256" duration="51394000" />
+      <workItem from="1590029033706" duration="4656000" />
+      <workItem from="1590114820008" duration="609000" />
+      <workItem from="1590371436618" duration="340000" />
+      <workItem from="1590387874314" duration="599000" />
+      <workItem from="1590398399187" duration="2836000" />
+      <workItem from="1590453380018" duration="4271000" />
+      <workItem from="1590475528759" duration="616000" />
+      <workItem from="1590632046471" duration="3521000" />
+      <workItem from="1590662946198" duration="1519000" />
+      <workItem from="1591259142522" duration="9000" />
+      <workItem from="1591875270265" duration="599000" />
+      <workItem from="1592363345423" duration="599000" />
+      <workItem from="1592365181041" duration="2000" />
+      <workItem from="1592893166042" duration="1641000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587954871466">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1587954871466" />
+    <state x="361" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1587136647268" />
+    <state x="504" y="224" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589873163401">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="504" y="224" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1589873163401" />
+    <state x="504" y="235" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1587212780141" />
+    <state x="499" y="171" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587912304853">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="171" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1587912304853" />
+    <state x="499" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1587629365018" />
+    <state x="686" y="226" key="FileChooserDialogImpl" timestamp="1592901570194">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="549" y="179" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1589292835856" />
+    <state x="549" y="188" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1587623185303" />
+    <state x="686" y="226" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1592901570194" />
+    <state width="1493" height="2" key="GridCell.Tab.0.bottom" timestamp="1590683069071">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="2" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590683069071" />
+    <state width="1493" height="2" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1587723522627" />
+    <state width="1877" height="2" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588008263957" />
+    <state width="1493" height="2" key="GridCell.Tab.0.center" timestamp="1590683069070">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="2" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590683069070" />
+    <state width="1493" height="2" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1587723522627" />
+    <state width="1877" height="2" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588008263957" />
+    <state width="1493" height="2" key="GridCell.Tab.0.left" timestamp="1590683069070">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="2" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590683069070" />
+    <state width="1493" height="2" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1587723522627" />
+    <state width="1877" height="2" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588008263957" />
+    <state width="1493" height="2" key="GridCell.Tab.0.right" timestamp="1590683069071">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="2" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590683069071" />
+    <state width="1493" height="2" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1587723522627" />
+    <state width="1877" height="2" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588008263957" />
+    <state width="1493" height="390" key="GridCell.Tab.1.bottom" timestamp="1587741081913">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="390" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587741081913" />
+    <state width="1493" height="413" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1587629898009" />
+    <state width="1493" height="390" key="GridCell.Tab.1.center" timestamp="1587741081913">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="390" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1587741081913" />
+    <state width="1493" height="413" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1587629898009" />
+    <state width="1493" height="390" key="GridCell.Tab.1.left" timestamp="1587741081913">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="390" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1587741081913" />
+    <state width="1493" height="413" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1587629898009" />
+    <state width="1493" height="390" key="GridCell.Tab.1.right" timestamp="1587741081913">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="390" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1587741081913" />
+    <state width="1493" height="413" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1587629898009" />
+    <state width="212" height="477" key="HiddenNamespacesPopup" timestamp="1585140617451">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="212" height="477" key="HiddenNamespacesPopup/0.0.1536.864@0.0.1536.864" timestamp="1585140617451" />
+    <state x="270" y="72" key="SettingsEditor" timestamp="1588124577481">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="72" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1588124577481" />
+    <state x="270" y="75" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1587615280753" />
+    <state x="431" y="173" width="672" height="647" key="search.everywhere.popup" timestamp="1587905839673">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="173" width="672" height="647" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1587905839673" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1587385658508" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/mainproject$TrainPreFile.coverage" NAME="TrainPreFile Coverage Results" MODIFIED="1587388799661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CNN" />
+    <SUITE FILE_PATH="coverage/mainproject$Predict__1_.coverage" NAME="Predict (1) Coverage Results" MODIFIED="1587299045102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CNN" />
+    <SUITE FILE_PATH="coverage/mainproject$VGG_Train.coverage" NAME="VGG_Train Coverage Results" MODIFIED="1587398479110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CNN" />
+    <SUITE FILE_PATH="coverage/mainproject$FineImg.coverage" NAME="FineImg Coverage Results" MODIFIED="1587355211734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mainproject$PreDataProcess.coverage" NAME="PreDataProcess Coverage Results" MODIFIED="1584770186865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mainproject$preparation_val__1_.coverage" NAME="preparation_val (1) Coverage Results" MODIFIED="1587620263117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ResNet" />
+    <SUITE FILE_PATH="coverage/mainproject$predict.coverage" NAME="predict Coverage Results" MODIFIED="1587627501650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ResNet" />
+    <SUITE FILE_PATH="coverage/mainproject$resnet_predict_pic.coverage" NAME="resnet_predict_pic Coverage Results" MODIFIED="1587714796250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ResNet" />
+    <SUITE FILE_PATH="coverage/mainproject$resnet_preparation_val.coverage" NAME="resnet_preparation_val Coverage Results" MODIFIED="1587551095006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ResNet" />
+    <SUITE FILE_PATH="coverage/mainproject$Data_Enhance.coverage" NAME="Data_Enhance Coverage Results" MODIFIED="1587389579400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CNN" />
+    <SUITE FILE_PATH="coverage/mainproject$Fine_Img.coverage" NAME="Fine_Img Coverage Results" MODIFIED="1588667138860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mainproject$resnet50.coverage" NAME="resnet50 Coverage Results" MODIFIED="1587559529461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ResNet" />
+    <SUITE FILE_PATH="coverage/mainproject$NewTrain.coverage" NAME="NewTrain Coverage Results" MODIFIED="1587389999118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CNN" />
+    <SUITE FILE_PATH="coverage/mainproject$Predict.coverage" NAME="Predict Coverage Results" MODIFIED="1587369395612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CNN" />
+    <SUITE FILE_PATH="coverage/mainproject$resnet50_train.coverage" NAME="resnet50_train Coverage Results" MODIFIED="1587620358994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ResNet" />
+    <SUITE FILE_PATH="coverage/mainproject$train__1_.coverage" NAME="train  Coverage Results" MODIFIED="1587978487644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ResNet" />
+    <SUITE FILE_PATH="coverage/mainproject$views.coverage" NAME="views Coverage Results" MODIFIED="1587719944772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DogTrain" />
+    <SUITE FILE_PATH="coverage/mainproject$train_.coverage" NAME="train  Coverage Results" MODIFIED="1587992428664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ResNet" />
+    <SUITE FILE_PATH="coverage/mainproject$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1585466734468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mainproject$preparation_test.coverage" NAME="preparation_test Coverage Results" MODIFIED="1587619941503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ResNet" />
+    <SUITE FILE_PATH="coverage/mainproject$train.coverage" NAME="train Coverage Results" MODIFIED="1587376828268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mainproject$FullTraining.coverage" NAME="FullTraining Coverage Results" MODIFIED="1587205925933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mainproject$test.coverage" NAME="test Coverage Results" MODIFIED="1587546660150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mainproject$Rename_Img.coverage" NAME="Rename_Img Coverage Results" MODIFIED="1587621656889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mainproject$NewTrain__1_.coverage" NAME="NewTrain (1) Coverage Results" MODIFIED="1587359454876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CNN" />
+  </component>
+</project>
